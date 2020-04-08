@@ -1,0 +1,53 @@
+body{
+	background-image: url(beach1.jpg);
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+h1{
+	text-align: center;
+	padding: 20px;
+	color: #0bff08;
+
+}
+h2{
+	text-align: center;
+	padding: 20px;
+}
+.register{
+	background-color: #c732ff;
+	width: 500px;
+	margin: 0px 0px 0px 430px;
+	color: white;
+	font-size: 18;
+	border-radius: 10px;
+	padding: 20px
+
+}
+#register{
+	margin-left: 100px;
+}
+label{
+	color: white;
+	font-family: sans-serif;
+	font-size: 18px;
+	font-style: italic;
+}
+#name{
+	width: 300px;
+	height: 15px;
+	border: none;
+	border-radius: 3px;
+	outline: 0;
+	padding: 7px;
+}
+#ph{
+	width: 65px;
+	border: none;
+	border-radius: 3px;
+	outline: 0;
+}
+#last {
+	text-align: justify;
+}
